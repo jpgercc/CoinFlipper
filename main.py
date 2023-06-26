@@ -43,7 +43,7 @@ def escolher_opcao():
 
 # Criação da janela principal
 window = tk.Tk()
-window.title("Escolher Opção")
+window.title("Escolhetron")
 window.geometry("300x300")
 
 # Rótulo e campo de entrada para o número de opções
